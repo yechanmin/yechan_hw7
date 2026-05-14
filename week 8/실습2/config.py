@@ -1,5 +1,0 @@
-MODEL_PATH = "mnist_cnn_torch.pth"
-CANVAS_SIZE = 300
-PREVIEW_SIZE = 28
-THRESHOLD = 20
-PADDING = 20
